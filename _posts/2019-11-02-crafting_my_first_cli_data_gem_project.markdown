@@ -40,9 +40,9 @@ uston, TX 77018", @city=#<FlooringGem::City:0x00000000026e8dc0 ...>, @phone=" (7
 
 Establishing these object relationships helped capture specific data regarding each flooring store's location. It allowed my program to create a collection of unique locations, each with specific information unique to that shop, that I could iterate through and display to the user. In the end, the program is relatively simple and does not do too many complex things. If the user wishes to view the contact information for the Houston shop, after they've followed the on-screen commands the following will output to the terminal:
 
-***Address: 565 Garden Oaks Blvd Houston, TX 77018
-Phone: (713) 333-5999**
-
+*Address: 565 Garden Oaks Blvd Houston, TX 77018
+Phone: (713) 333-5999
+*
 This information is retrieved from our city object by use of the '.each' method. 
 
 Despite the program's relative simplicity, I absolutely loved working through the process from start to completion. I definitely had my moments of frustration whenever the error messages and failures appeared, but yet another lesson I learned through the process was staying both positive and persistent. It gave me a chance to do my research, review previous lessons, and gain a greater understanding of why my code was running the way it was. Is my final product perfect? Deffinitely not, but I am certainly open to receiving constructive criticism for how I can improve my program! This definitely will not be the last time I visist my 'Flooring Gem' repo, I want to come back and see what kind of additional features I can add as I continue to learn new things.
