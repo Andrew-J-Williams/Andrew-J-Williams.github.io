@@ -1,0 +1,20 @@
+# Site settings
+author: Andrew Williams
+title: 
+header-img: img/home-bg.png
+email: 1williamsaj@gmail.com
+copyright_name: Andrew Williams
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: CaptainJilliams
+github_username:  Andrew-J-Williams
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
