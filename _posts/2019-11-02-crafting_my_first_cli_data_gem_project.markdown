@@ -48,5 +48,5 @@ This information is retrieved from our city object by use of the '.each' method.
 Despite the program's relative simplicity, I absolutely loved working through the process from start to completion. I definitely had my moments of frustration whenever the error messages and failures appeared, but yet another lesson I learned through the process was staying both positive and persistent. It gave me a chance to do my research, review previous lessons, and gain a greater understanding of why my code was running the way it was. Is my final product perfect? Deffinitely not, but I am certainly open to receiving constructive criticism for how I can improve my program! This definitely will not be the last time I visist my 'Flooring Gem' repo, I want to come back and see what kind of additional features I can add as I continue to learn new things.
 
 If you want to check out my project and clone it for use, check out the link below:
-[](https://github.com/Andrew-J-Williams/flooring_gem/tree/master/lib/flooring_gem)
+[Floor Project](https://github.com/Andrew-J-Williams/flooring_gem/tree/master/lib/flooring_gem)
 
