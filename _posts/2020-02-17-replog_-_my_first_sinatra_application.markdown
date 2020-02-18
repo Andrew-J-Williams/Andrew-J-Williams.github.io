@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "RepLog - My First Sinatra Application"
-date:       2020-02-18 00:51:14 +0000
+date:       2020-02-17 19:51:15 -0500
 permalink:  replog_-_my_first_sinatra_application
 ---
 
