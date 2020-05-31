@@ -33,9 +33,13 @@ From there the task became relationship connections, of which the following were
 
 While the rails generator helped provide the routes for all my generated classes, I had to create my own routes when working with my Sessions controller. The most fundamental part of my application would be the user's ability to access it, thus it was crucial to take care of these routes and views before delving into the creation of any other part. The routes for my Sessions control ultimately looked like this:
 
-[](https://i.imgur.com/kw1RWxY.png)
+![](https://i.imgur.com/kw1RWxY.png)
 
 One point to note is that I chose to create a dyanmic route for my Omniauth functionality, allowing my pogram the ability to accept multiple sources for log in if I user chooses to create an account through a 3rd party. For now, the only 3rd party my application allows for log in is Google, but as mentioned before, I hope to spend more time in the future adding more sources to my applcation. 
+
+Another crucial feature I chose to implement were several helper methods defined in the Application controller. You can see them in the image below and well as the comments describing their functionality:
+
+![](https://imgur.com/a/GIByvh1)
 
 
 
