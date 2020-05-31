@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rolling with Rails: Logistix"
-date:       2020-05-31 22:17:06 +0000
+date:       2020-05-31 18:17:07 -0400
 permalink:  rolling_with_rails_logistix
 ---
 
