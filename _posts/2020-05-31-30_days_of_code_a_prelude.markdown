@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "30 Days of Code: A Prelude"
-date:       2020-06-01 03:34:25 +0000
+date:       2020-05-31 23:34:25 -0400
 permalink:  30_days_of_code_a_prelude
 ---
 
