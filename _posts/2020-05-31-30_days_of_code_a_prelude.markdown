@@ -64,5 +64,5 @@ As I coded the logic for each feature of the program, I had an incredibly enjoya
 While it's far from perfect, I really enjoyed keeping the different features of the program packed within their own little boxes, displaying information in a way that hopefully doesn't overhwhelm the user too much. Albeit a small feature that not many people may notice, I was really proud of the transition I was able to incorporate when the user logs into their account. The login box transforms upon the user clicking the 'Log In' button, changing colors to reveal a message that welcomes them by their specific username. I spent more time then I probably should have adding small details with css, but making a visually appealing application brings me just as much joy as coding logic behind the scenes does!
 
 If you want to view the repository for this project, follow the link below:
-[](https://github.com/Andrew-J-Williams/Explore-Gettysburg)
+[Explore Gettysburg](https://github.com/Andrew-J-Williams/Explore-Gettysburg)
 
